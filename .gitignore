@@ -1,0 +1,25 @@
+# Created by .ignore support plugin (hsz.mobi)
+### OSX template
+*.DS_Store
+
+# Thumbnails
+._*
+
+### Java template
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+### JetBrains template
+.idea/
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
